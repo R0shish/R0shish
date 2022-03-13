@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.4a35b45f.chunk.css",
+    "main.js": "/personal-website/static/js/main.9c9546d9.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.9c9546d9.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.99095661.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.99095661.js.map",
+    "static/js/2.ab85592f.chunk.js": "/personal-website/static/js/2.ab85592f.chunk.js",
+    "static/js/2.ab85592f.chunk.js.map": "/personal-website/static/js/2.ab85592f.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "precache-manifest.6eb420aa9019973413266e1f639e3b91.js": "/personal-website/precache-manifest.6eb420aa9019973413266e1f639e3b91.js",
+    "service-worker.js": "/personal-website/service-worker.js",
+    "static/css/main.4a35b45f.chunk.css.map": "/personal-website/static/css/main.4a35b45f.chunk.css.map",
+    "static/js/2.ab85592f.chunk.js.LICENSE.txt": "/personal-website/static/js/2.ab85592f.chunk.js.LICENSE.txt",
+    "static/media/AEtest.mp4": "/personal-website/static/media/AEtest.2e2ee372.mp4",
+    "static/media/background1080.jpg": "/personal-website/static/media/background1080.c72bed13.jpg",
+    "static/media/bg4.jpg": "/personal-website/static/media/bg4.01b25038.jpg",
+    "static/media/work.jpg": "/personal-website/static/media/work.56e1a61b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99095661.js",
+    "static/js/2.ab85592f.chunk.js",
+    "static/css/main.4a35b45f.chunk.css",
+    "static/js/main.9c9546d9.chunk.js"
+  ]
+}
